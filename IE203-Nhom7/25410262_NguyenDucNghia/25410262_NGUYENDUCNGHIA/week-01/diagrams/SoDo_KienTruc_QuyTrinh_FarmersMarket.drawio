@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram id="kientruc" name="Kiến trúc ngôi nhà">
+    <mxGraphModel dx="1744" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="roof" parent="1" style="triangle;direction=north;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1F3864;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="290" width="1060" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="body" parent="1" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#1F3864;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="580" width="1060" x="20" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="n100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#21409A;strokeColor=#21409A;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="QL3 – Hoạch định kinh doanh &amp;&lt;br&gt;mở rộng chuỗi cửa hàng" vertex="1">
+          <mxGeometry height="55" width="280" x="400" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="n101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4472C4;strokeColor=#4472C4;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="QL1 – Quản lý chuỗi cung ứng &amp; thu mua nông sản" vertex="1">
+          <mxGeometry height="54" width="530" x="290" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="n102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FA9DD;strokeColor=#7FA9DD;fontColor=#0B2545;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="QL2 – Quản lý chất lượng &amp; an toàn thực phẩm (QA/QC)" vertex="1">
+          <mxGeometry height="52" width="770" x="170" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#4472C4;fontColor=#21409A;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="Quy trình quản lý (Management Process)" vertex="1">
+          <mxGeometry height="34" width="340" x="45" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="corebox" parent="1" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#EAF5EF;strokeColor=#1E6F52;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="270" width="1000" x="50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="n104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1E6F52;fontColor=#1E6F52;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="Quy trình cốt lõi (Core Process)" vertex="1">
+          <mxGeometry height="34" width="340" x="75" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E6F52;strokeColor=#1E6F52;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="CL1 – Bán hàng &amp; trải nghiệm&lt;br&gt;tại cửa hàng (POS)" vertex="1">
+          <mxGeometry height="100" width="470" x="75" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="n106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E6F52;strokeColor=#1E6F52;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="CL2 – Xử lý đơn hàng Online &amp;&lt;br&gt;giao hàng tươi tốc hành" vertex="1">
+          <mxGeometry height="100" width="470" x="555" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="n107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E6F52;strokeColor=#1E6F52;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="CL3 – Kiểm kê kho &amp; xử lý&lt;br&gt;hàng tươi hao hụt" vertex="1">
+          <mxGeometry height="100" width="470" x="75" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="n108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E6F52;strokeColor=#1E6F52;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="CL4 – Chăm sóc khách hàng &amp;&lt;br&gt;xử lý khiếu nại / đổi trả" vertex="1">
+          <mxGeometry height="100" width="470" x="555" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="supbox" parent="1" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FDF3E0;strokeColor=#C8871B;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="190" width="1000" x="50" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="n109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C8871B;fontColor=#C8871B;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="Quy trình hỗ trợ (Support Process)" vertex="1">
+          <mxGeometry height="34" width="340" x="75" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="n110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8871B;strokeColor=#C8871B;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="HT1 – Kế toán, thu ngân&lt;br&gt;&amp; đối soát doanh thu" vertex="1">
+          <mxGeometry height="110" width="290" x="75" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="n111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8871B;strokeColor=#C8871B;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="HT2 – Tuyển dụng &amp;&lt;br&gt;đào tạo nhân sự chuỗi" vertex="1">
+          <mxGeometry height="110" width="290" x="405" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="n112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8871B;strokeColor=#C8871B;fontColor=#FFFFFF;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;arcSize=8;" value="HT3 – Quản lý &amp; vận hành&lt;br&gt;hệ thống CNTT" vertex="1">
+          <mxGeometry height="110" width="290" x="735" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="cap" parent="1" style="text;html=1;align=center;fontSize=15;fontStyle=2;fontColor=#333333;" value="Hình 2.1. Sơ đồ kiến trúc quy trình nghiệp vụ Farmers Market" vertex="1">
+          <mxGeometry height="30" width="800" x="150" y="900" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
