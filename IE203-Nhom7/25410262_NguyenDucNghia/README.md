@@ -34,16 +34,29 @@ Các bước bổ sung so với 3 ảnh gốc (do ảnh gốc thiếu): kiểm t
 sách, gửi PO đã duyệt cho NCC (ME9F), đối chiếu 3 chiều PO–phiếu nhập kho–hoá
 đơn, và thực hiện thanh toán (F110).
 
+## Nội dung 2 file phân tích
+
+Mỗi quy trình có 1 file Word gồm 2 phần:
+
+- **Phần A – Bộ 6 mục**: Mục tiêu & Phạm vi · RACI · SIPOC · Bảng bước AS-IS ·
+  Sơ đồ BPMN · KPI và điểm nghẽn/rủi ro
+- **Phần B – Phân tích quy trình (rubric mục 4)**:
+  - Định tính: VA/VBA/NVA · Lãng phí (Move–Hold–Overdo) · Xương cá (Fishbone)
+  - Định lượng: Thời gian (lead time, PCE) · Chất lượng · Chi phí
+
+Kết quả định lượng chính:
+
+| | Mua hàng & CCU | Đơn hàng Online |
+|---|---|---|
+| Lead time | 21,0 ngày (mục tiêu < 15) | 3,6 giờ (cam kết 2–4h) |
+| Hiệu suất chu trình (PCE) | 6,1 % | 83,2 % |
+| Chi phí nhân công / 1 giao dịch | ~1.674.000 đ / PO | ~115.600 đ / đơn |
+| Trong đó lãng phí | ~63.400 đ (3,8 %) | ~20.900 đ (18,1 %) |
+
 ## Việc còn lại (chưa làm)
 
-- [ ] Cập nhật `Phan_tich_Mua_hang_Chuoi_cung_ung__BAN_CU_CAN_CAP_NHAT.docx`:
-      nội dung hiện tại vẫn là bản Farmers Market cũ, **chưa khớp** sơ đồ mới
-      (Laria / SAP). Cần viết lại RACI, SIPOC, bảng bước AS-IS, KPI.
-- [ ] Rubric mục 4 – Phân tích quy trình: VA/VBA/NVA, phân tích lãng phí
-      (Move/Hold/Overdo), phân tích các bên liên quan (Pareto/Fishbone),
-      định lượng thời gian – chất lượng – chi phí (cho cả 2 quy trình).
 - [ ] Rubric mục 3 – Phỏng vấn: 10 câu định tính + 10 câu định lượng
-      (chưa rõ làm theo cá nhân hay cả nhóm).
+      (chưa rõ làm theo cá nhân hay cả nhóm — cần hỏi Lead).
 
 ## Mở file .drawio
 
