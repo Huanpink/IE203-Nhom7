@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3750" height="1660" viewBox="0 0 3750 1660" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="3750" height="1660" fill="#ffffff"/>
+<rect x="0" y="60" width="3710" height="260" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="60" width="190" height="260" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="95" y="194" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">Khách hàng</text>
+<rect x="0" y="320" width="3710" height="260" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="320" width="190" height="260" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="95" y="454" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">Hệ thống App / Website</text>
+<rect x="0" y="580" width="3710" height="260" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="580" width="190" height="260" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="95" y="714" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">Tổng đài &amp; Điều phối đơn</text>
+<rect x="0" y="840" width="3710" height="260" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="840" width="190" height="260" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="95" y="974" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">Nhân viên soạn hàng (cửa hàng)</text>
+<rect x="0" y="1100" width="3710" height="260" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="1100" width="190" height="260" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="95" y="1234" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">Nhân viên giao hàng (Shipper)</text>
+<rect x="0" y="1360" width="3710" height="260" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="1360" width="190" height="260" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="95" y="1494" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">Kế toán / Thu ngân</text>
+<text x="0" y="44" font-size="17" font-weight="bold" fill="#111111">CL2 – QUY TRÌNH XỬ LÝ ĐƠN HÀNG ONLINE &amp; GIAO HÀNG TƯƠI TỐC HÀNH (AS-IS, có Split/Join)</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#555555"/></marker></defs>
+<path d="M 314 190 L 377 190 L 377 450 L 440 450" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 600 450 L 615 450 L 615 450 L 630 450" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 730 450 L 870 450 L 870 710 L 1010 710" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="815" y="569" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="870" y="580" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 680 500 L 695 500 L 695 771 L 710 771" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="640" y="624" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="695" y="636" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Hết hàng</text>
+<path d="M 790 805 L 805 805 L 805 805 L 820 805" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 920 805 L 981 805 L 981 744 L 1042 744" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="926" y="764" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="981" y="774" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Đồng ý</text>
+<path d="M 870 855 L 861 855 L 861 868 L 852 868" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="806" y="850" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="861" y="862" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Từ chối</text>
+<path d="M 1170 710 L 1185 710 L 1185 710 L 1200 710" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1300 710 L 1345 710 L 1345 970 L 1390 970" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1250 760 L 1336 760 L 1336 1196 L 1422 1196" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1550 970 L 1565 970 L 1565 970 L 1580 970" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1740 970 L 1755 970 L 1755 970 L 1770 970" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1870 970 L 1930 970 L 1930 968 L 1990 968" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1875" y="958" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1930" y="969" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Đạt</text>
+<path d="M 1820 1020 L 1700 1020 L 1700 970 L 1580 970" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1645" y="984" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1700" y="995" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không đạt (đóng gói lại)</text>
+<path d="M 1550 1230 L 1660 1230 L 1660 1230 L 1770 1230" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1820 1280 L 1925 1280 L 1925 1068 L 2030 1068" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1870" y="1163" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1925" y="1174" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Sẵn sàng</text>
+<path d="M 1870 1230 L 1710 1230 L 1710 1230 L 1550 1230" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1655" y="1219" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1710" y="1230" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Chưa – chờ xe dự phòng</text>
+<path d="M 2060 1018 L 2105 1018 L 2105 1230 L 2150 1230" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2310 1230 L 2325 1230 L 2325 190 L 2340 190" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2500 190 L 2515 190 L 2515 190 L 2530 190" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2580 240 L 2665 240 L 2665 1180 L 2750 1180" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2610" y="699" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2665" y="710" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Đạt</text>
+<path d="M 2580 240 L 2595 240 L 2595 771 L 2610 771" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2540" y="494" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2595" y="506" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không đạt</text>
+<path d="M 2690 805 L 2705 805 L 2705 805 L 2720 805" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2820 1230 L 2865 1230 L 2865 1230 L 2910 1230" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2810" y="1219" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2865" y="1230" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">COD</text>
+<path d="M 2770 1280 L 2840 1280 L 2840 1325 L 2910 1325" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2785" y="1292" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2840" y="1302" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Đã trả trước (ví điện tử/CK)</text>
+<path d="M 3070 1230 L 3085 1230 L 3085 1490 L 3100 1490" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3070 1325 L 3109 1325 L 3109 1456 L 3148 1456" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3260 1490 L 3275 1490 L 3275 1490 L 3290 1490" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3450 1490 L 3465 1490 L 3465 1490 L 3480 1490" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 518 384 L 519 384 L 519 416 L 520 416" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 1468 904 L 1469 904 L 1469 936 L 1470 936" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 2988 1164 L 2989 1164 L 2989 1196 L 2990 1196" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 3178 1424 L 3179 1424 L 3179 1456 L 3180 1456" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<ellipse cx="282" cy="190" rx="32" ry="32" fill="#e3f2e3" stroke="#4c8c4c" stroke-width="1.8"/>
+<text x="282" y="172" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Khách</text><text x="282" y="182" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">đặt</text><text x="282" y="192" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">hàng</text><text x="282" y="202" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">trên</text><text x="282" y="212" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">App/Web</text>
+<rect x="440" y="416" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="520" y="440" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Ghi nhận đơn, kiểm tra</text><text x="520" y="454" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">tồn kho cửa hàng gần</text><text x="520" y="468" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">nhất</text>
+<polygon points="680,400 730,450 680,500 630,450" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="680" y="447" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Còn đủ</text><text x="680" y="461" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">hàng?</text>
+<rect x="630" y="771" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="710" y="795" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Gọi khách đề xuất sản</text><text x="710" y="809" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">phẩm thay thế hoặc huỷ</text><text x="710" y="823" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">đơn</text>
+<polygon points="870,755 920,805 870,855 820,805" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="870" y="789" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Khách</text><text x="870" y="802" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">đồng ý</text><text x="870" y="814" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">thay</text><text x="870" y="827" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">thế?</text>
+<ellipse cx="852" cy="900" rx="32" ry="32" fill="#fbe1e0" stroke="#a85050" stroke-width="4.5"/>
+<text x="852" y="886" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Kết</text><text x="852" y="897" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">thúc –</text><text x="852" y="909" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Đơn bị</text><text x="852" y="920" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">huỷ</text>
+<rect x="1010" y="676" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1090" y="707" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Xác nhận đơn &amp; ghi nhận</text><text x="1090" y="721" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">phương thức thanh toán</text>
+<polygon points="1250,660 1300,710 1250,760 1200,710" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="1250" y="699" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">+ Tách</text><text x="1250" y="714" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text><text x="1250" y="728" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text>
+<rect x="1390" y="936" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1470" y="960" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Soạn hàng, cân trọng</text><text x="1470" y="974" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">lượng thực tế, kiểm hạn</text><text x="1470" y="988" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">dùng</text>
+<rect x="1580" y="936" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1660" y="960" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Đóng gói giữ lạnh, dán</text><text x="1660" y="974" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">tem &amp; kiểm nhiệt độ</text><text x="1660" y="988" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">thùng</text>
+<polygon points="1820,920 1870,970 1820,1020 1770,970" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="1820" y="954" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Nhiệt độ</text><text x="1820" y="967" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">thùng</text><text x="1820" y="979" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">đạt</text><text x="1820" y="992" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">chuẩn?</text>
+<rect x="1390" y="1196" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1470" y="1227" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Điều phối &amp; gán shipper</text><text x="1470" y="1241" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">theo tuyến giao</text>
+<polygon points="1820,1180 1870,1230 1820,1280 1770,1230" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="1820" y="1219" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Xe giữ</text><text x="1820" y="1234" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">lạnh sẵn</text><text x="1820" y="1248" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">sàng?</text>
+<polygon points="2010,968 2060,1018 2010,1068 1960,1018" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="2010" y="1002" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">+ Hợp</text><text x="2010" y="1014" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">nhất</text><text x="2010" y="1027" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text><text x="2010" y="1039" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text>
+<rect x="2150" y="1196" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2230" y="1227" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Nhận hàng, giao khách</text><text x="2230" y="1241" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">trong 2–4 giờ</text>
+<rect x="2340" y="156" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2420" y="187" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Khách nhận &amp; kiểm tra</text><text x="2420" y="201" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">hàng</text>
+<polygon points="2580,140 2630,190 2580,240 2530,190" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="2580" y="187" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Hàng đạt</text><text x="2580" y="201" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">yêu cầu?</text>
+<rect x="2530" y="771" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2610" y="802" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Chuyển CL4 xử lý đổi</text><text x="2610" y="816" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">trả / hoàn tiền</text>
+<ellipse cx="2752" cy="805" rx="32" ry="32" fill="#fbe1e0" stroke="#a85050" stroke-width="4.5"/>
+<text x="2752" y="791" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Kết</text><text x="2752" y="802" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">thúc –</text><text x="2752" y="814" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Chuyển</text><text x="2752" y="825" font-size="8.5" font-weight="bold" fill="#2a2a2a" text-anchor="middle">CL4</text>
+<polygon points="2770,1180 2820,1230 2770,1280 2720,1230" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="2770" y="1214" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Phương</text><text x="2770" y="1227" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">thức</text><text x="2770" y="1239" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">thanh</text><text x="2770" y="1252" font-size="9.5" font-weight="bold" fill="#7a4700" text-anchor="middle">toán?</text>
+<rect x="2910" y="1196" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2990" y="1227" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Thu tiền COD &amp; xác nhận</text><text x="2990" y="1241" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">giao thành công (POD)</text>
+<rect x="2910" y="1291" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2990" y="1315" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Xác nhận giao thành</text><text x="2990" y="1329" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">công (POD) – đã trả</text><text x="2990" y="1343" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">trước</text>
+<rect x="3100" y="1456" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="3180" y="1487" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Đối soát COD, ví điện</text><text x="3180" y="1501" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">tử &amp; ghi nhận doanh thu</text>
+<rect x="3290" y="1456" width="160" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="3370" y="1487" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Gửi khảo sát đánh giá &amp;</text><text x="3370" y="1501" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">tích điểm thành viên</text>
+<ellipse cx="3512" cy="1490" rx="32" ry="32" fill="#fbe1e0" stroke="#a85050" stroke-width="4.5"/>
+<text x="3512" y="1487" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Kết</text><text x="3512" y="1500" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">thúc</text>
+<polygon points="458,332 566,332 578,344 578,384 458,384" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="566,332 566,344 578,344" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="518" y="361" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Đơn hàng online</text>
+<polygon points="1408,852 1516,852 1528,864 1528,904 1408,904" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="1516,852 1516,864 1528,864" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="1468" y="881" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Phiếu soạn hàng</text>
+<polygon points="2928,1112 3036,1112 3048,1124 3048,1164 2928,1164" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="3036,1112 3036,1124 3048,1124" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="2988" y="1135" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">POD (ảnh + chữ ký</text><text x="2988" y="1147" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">khách)</text>
+<polygon points="3118,1372 3226,1372 3238,1384 3238,1424 3118,1424" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="3226,1372 3226,1384 3238,1384" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="3178" y="1401" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Báo cáo đối soát</text>
+</svg>

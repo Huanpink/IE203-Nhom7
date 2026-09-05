@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5455" height="1720" viewBox="0 0 5455 1720" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="5455" height="1720" fill="#ffffff"/>
+<rect x="0" y="60" width="5415" height="270" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="60" width="185" height="270" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="92" y="199" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">BP Yêu cầu / Cửa hàng</text>
+<rect x="0" y="330" width="5415" height="270" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="330" width="185" height="270" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="92" y="469" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">BP Mua hàng</text>
+<rect x="0" y="600" width="5415" height="270" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="600" width="185" height="270" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="92" y="739" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">TGĐ / NDUQ (duyệt hợp đồng)</text>
+<rect x="0" y="870" width="5415" height="270" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="870" width="185" height="270" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="92" y="1009" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">TBP / BGĐ (duyệt PO)</text>
+<rect x="0" y="1140" width="5415" height="270" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="1140" width="185" height="270" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="92" y="1279" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">BP Kho</text>
+<rect x="0" y="1410" width="5415" height="270" fill="none" stroke="#bbbbbb" stroke-width="1.5"/>
+<rect x="0" y="1410" width="185" height="270" fill="#f2f2f2" stroke="#bbbbbb" stroke-width="1.5"/>
+<text x="92" y="1549" font-size="13.0" font-weight="bold" fill="#333333" text-anchor="middle">BP Kế toán</text>
+<text x="0" y="44" font-size="17" font-weight="bold" fill="#111111">QL – QUY TRÌNH MUA HÀNG &amp; QUẢN LÝ CHUỖI CUNG ỨNG (LARIA) — GỘP MM.03 + MM.04 + MM.05</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#555555"/></marker></defs>
+<path d="M 313 195 L 374 195 L 374 195 L 435 195" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 590 195 L 608 195 L 608 465 L 625 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 780 465 L 798 465 L 798 465 L 815 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 919 465 L 962 465 L 962 465 L 1005 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="907" y="454" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="962" y="465" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 867 517 L 880 517 L 880 531 L 892 531" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="825" y="513" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="880" y="524" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không</text>
+<path d="M 892 531 L 949 531 L 949 499 L 1005 499" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1160 465 L 1178 465 L 1178 465 L 1195 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1350 465 L 1368 465 L 1368 465 L 1385 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1540 465 L 1558 465 L 1558 465 L 1575 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1679 465 L 1722 465 L 1722 465 L 1765 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1667" y="454" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1722" y="465" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 1627 517 L 1640 517 L 1640 531 L 1652 531" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1585" y="513" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1640" y="524" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không</text>
+<path d="M 1730 565 L 1748 565 L 1748 565 L 1765 565" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 1869 465 L 1912 465 L 1912 465 L 1955 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="1857" y="454" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="1912" y="465" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 2110 465 L 2128 465 L 2128 735 L 2145 735" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2300 735 L 2318 735 L 2318 735 L 2335 735" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2439 735 L 2482 735 L 2482 465 L 2525 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2427" y="589" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2482" y="600" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 2335 735 L 2184 735 L 2184 499 L 2032 499" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2129" y="606" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2184" y="617" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không (đàm phán lại)</text>
+<path d="M 1817 517 L 2292 517 L 2292 517 L 2767 517" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2237" y="506" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2292" y="517" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không</text>
+<path d="M 2680 465 L 2698 465 L 2698 465 L 2715 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 2819 465 L 2862 465 L 2862 465 L 2905 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2807" y="454" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2862" y="465" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 2767 517 L 2758 517 L 2758 531 L 2749 531" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="2703" y="513" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="2758" y="524" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không</text>
+<path d="M 3060 465 L 3078 465 L 3078 1005 L 3095 1005" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3250 1005 L 3268 1005 L 3268 1005 L 3285 1005" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3389 1005 L 3432 1005 L 3432 465 L 3475 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="3377" y="724" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="3432" y="735" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 3285 1005 L 3134 1005 L 3134 499 L 2982 499" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="3079" y="741" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="3134" y="752" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không</text>
+<path d="M 3630 465 L 3648 465 L 3648 465 L 3665 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3717 517 L 3730 517 L 3730 1511 L 3742 1511" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="3675" y="1003" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="3730" y="1014" font-size="10.5" fill="#1a7a1a" text-anchor="middle" font-weight="bold">Có</text>
+<path d="M 3820 1545 L 3864 1545 L 3864 517 L 3907 517" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3769 465 L 3812 465 L 3812 465 L 3855 465" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="3757" y="454" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="3812" y="465" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không</text>
+<path d="M 3907 517 L 3992 517 L 3992 1241 L 4076 1241" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 3907 517 L 3976 517 L 3976 1545 L 4045 1545" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4200 1275 L 4218 1275 L 4218 1275 L 4235 1275" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4339 1275 L 4382 1275 L 4382 1275 L 4425 1275" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="4327" y="1264" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="4382" y="1275" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Khớp</text>
+<path d="M 4287 1327 L 4356 1327 L 4356 1375 L 4425 1375" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="4301" y="1340" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="4356" y="1351" font-size="10.5" fill="#a11a1a" text-anchor="middle" font-weight="bold">Không khớp</text>
+<path d="M 4502 1409 L 4312 1409 L 4312 1309 L 4122 1309" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="4258" y="1348" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="4312" y="1359" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">chờ giao lại</text>
+<path d="M 4200 1545 L 4338 1545 L 4338 1327 L 4477 1327" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4529 1275 L 4572 1275 L 4572 1545 L 4615 1545" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4719 1545 L 4762 1545 L 4762 1545 L 4805 1545" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="4707" y="1534" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="4762" y="1545" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Khớp</text>
+<path d="M 4667 1597 L 4680 1597 L 4680 1611 L 4692 1611" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<rect x="4625" y="1593" width="110" height="14" fill="#ffffff" opacity="0.85"/>
+<text x="4680" y="1604" font-size="10.5" fill="#333333" text-anchor="middle" font-weight="bold">Lệch</text>
+<path d="M 4692 1679 L 4408 1679 L 4408 1579 L 4122 1579" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4960 1545 L 4978 1545 L 4978 1545 L 4995 1545" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 5150 1545 L 5168 1545 L 5168 1545 L 5185 1545" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4113 1645 L 4174 1645 L 4174 1645 L 4235 1645" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4390 1645 L 4408 1645 L 4408 1645 L 4425 1645" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 4580 1645 L 4716 1645 L 4716 1579 L 4852 1579" fill="none" stroke="#666666" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M 513 129 L 513 129 L 513 161 L 512 161" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 1273 399 L 1273 399 L 1273 431 L 1272 431" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 2223 669 L 2223 669 L 2223 701 L 2222 701" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 2983 399 L 2983 399 L 2983 431 L 2982 431" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 4123 1209 L 4123 1209 L 4123 1241 L 4122 1241" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 4123 1479 L 4123 1479 L 4123 1511 L 4122 1511" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<path d="M 4883 1479 L 4883 1479 L 4883 1511 L 4882 1511" fill="none" stroke="#b8a12e" stroke-width="1.3" stroke-dasharray="5,4"/>
+<ellipse cx="279" cy="195" rx="34" ry="34" fill="#e3f2e3" stroke="#4c8c4c" stroke-width="1.8"/>
+<text x="279" y="185" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Yêu cầu</text><text x="279" y="198" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">mua</text><text x="279" y="211" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">hàng</text>
+<rect x="435" y="161" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="512" y="185" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 1: Tham chiếu</text><text x="512" y="199" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">MM.02 – Quy trình yêu</text><text x="512" y="213" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">cầu mua hàng</text>
+<rect x="625" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="702" y="462" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 2: Tìm thông tin</text><text x="702" y="476" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">NCC (BP)</text>
+<polygon points="867,413 919,465 867,517 815,465" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="867" y="462" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">NCC đã</text><text x="867" y="476" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">tồn tại?</text>
+<rect x="815" y="531" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="892" y="555" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 3: Tham chiếu</text><text x="892" y="569" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">MD.02 – Quản lý danh</text><text x="892" y="583" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">mục NCC</text>
+<rect x="1005" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1082" y="462" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 4: Lập thư hỏi</text><text x="1082" y="476" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">giá (ME41)</text>
+<rect x="1195" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1272" y="462" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 5: Nhập báo giá</text><text x="1272" y="476" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">NCC (ME47)</text>
+<rect x="1385" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1462" y="462" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 6: So sánh báo</text><text x="1462" y="476" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">giá &amp; chọn NCC (ME49)</text>
+<polygon points="1627,413 1679,465 1627,517 1575,465" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="1627" y="454" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Chọn</text><text x="1627" y="469" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">được</text><text x="1627" y="483" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">NCC?</text>
+<rect x="1575" y="531" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="1652" y="562" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 7: Từ chối nhà</text><text x="1652" y="576" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">cung cấp (ME47)</text>
+<ellipse cx="1799" cy="565" rx="34" ry="34" fill="#fbe1e0" stroke="#a85050" stroke-width="4.5"/>
+<text x="1799" y="547" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Kết</text><text x="1799" y="557" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">thúc –</text><text x="1799" y="567" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Không</text><text x="1799" y="577" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">chọn</text><text x="1799" y="587" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">NCC</text>
+<polygon points="1817,413 1869,465 1817,517 1765,465" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="1817" y="454" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Cần lập</text><text x="1817" y="469" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">hợp đồng</text><text x="1817" y="483" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">khung?</text>
+<rect x="1955" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2032" y="462" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 8: Lập &amp; kiểm tra</text><text x="2032" y="476" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">hợp đồng (dự thảo)</text>
+<rect x="2145" y="701" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2222" y="739" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 9: Duyệt hợp đồng</text>
+<polygon points="2387,683 2439,735 2387,787 2335,735" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="2387" y="724" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Duyệt</text><text x="2387" y="739" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">hợp</text><text x="2387" y="753" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">đồng?</text>
+<rect x="2525" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2602" y="455" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 10: Cập nhật hợp</text><text x="2602" y="469" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">đồng trên hệ thống</text><text x="2602" y="483" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">(ME31K/ME32K)</text>
+<polygon points="2767,413 2819,465 2767,517 2715,465" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="2767" y="454" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Còn hạn</text><text x="2767" y="469" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">mức ngân</text><text x="2767" y="483" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">sách?</text>
+<ellipse cx="2749" cy="565" rx="34" ry="34" fill="#fbe1e0" stroke="#a85050" stroke-width="4.5"/>
+<text x="2749" y="547" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Kết</text><text x="2749" y="557" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">thúc –</text><text x="2749" y="567" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Vượt</text><text x="2749" y="577" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">ngân</text><text x="2749" y="587" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">sách</text>
+<rect x="2905" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="2982" y="455" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 11: Lập/sửa đơn</text><text x="2982" y="469" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">mua hàng PO</text><text x="2982" y="483" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">(ME21N/ME22N)</text>
+<rect x="3095" y="971" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="3172" y="1002" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 12: Duyệt PO</text><text x="3172" y="1016" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">(ME28/ME29N/FIORI)</text>
+<polygon points="3337,953 3389,1005 3337,1057 3285,1005" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="3337" y="1002" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Duyệt</text><text x="3337" y="1016" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">PO?</text>
+<rect x="3475" y="431" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="3552" y="462" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 13: Gửi PO đã</text><text x="3552" y="476" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">duyệt cho NCC (ME9F)</text>
+<polygon points="3717,413 3769,465 3717,517 3665,465" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="3717" y="454" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">Có trả</text><text x="3717" y="469" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">trước /</text><text x="3717" y="483" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">đặt cọc?</text>
+<rect x="3665" y="1511" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="3742" y="1535" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 14: Tham chiếu</text><text x="3742" y="1549" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">AP.03 – Ghi nhận trả</text><text x="3742" y="1563" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">trước/đặt cọc</text>
+<polygon points="3907,413 3959,465 3907,517 3855,465" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="3907" y="454" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">+ Tách</text><text x="3907" y="469" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text><text x="3907" y="483" font-size="11.5" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text>
+<rect x="4045" y="1241" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" stroke-dasharray="6,4"/>
+<text x="4122" y="1265" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 15: Tham chiếu</text><text x="4122" y="1279" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">WM.01 – Quy trình nhập</text><text x="4122" y="1293" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">kho mua hàng</text>
+<polygon points="4287,1223 4339,1275 4287,1327 4235,1275" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="4287" y="1257" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">Hàng</text><text x="4287" y="1267" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">nhận</text><text x="4287" y="1277" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">khớp PO</text><text x="4287" y="1287" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">(SL &amp;</text><text x="4287" y="1297" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">CL)?</text>
+<rect x="4425" y="1341" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="4502" y="1365" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 16: Lập biên bản</text><text x="4502" y="1379" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">không phù hợp, phản</text><text x="4502" y="1393" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">hồi NCC</text>
+<rect x="4045" y="1511" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="4122" y="1535" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 17: Nhận &amp; ghi</text><text x="4122" y="1549" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">nhận hoá đơn NCC</text><text x="4122" y="1563" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">(MIRO)</text>
+<polygon points="4477,1223 4529,1275 4477,1327 4425,1275" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="4477" y="1259" font-size="10.0" font-weight="bold" fill="#7a4700" text-anchor="middle">+ Hợp</text><text x="4477" y="1272" font-size="10.0" font-weight="bold" fill="#7a4700" text-anchor="middle">nhất</text><text x="4477" y="1285" font-size="10.0" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text><text x="4477" y="1298" font-size="10.0" font-weight="bold" fill="#7a4700" text-anchor="middle">song</text>
+<polygon points="4667,1493 4719,1545 4667,1597 4615,1545" fill="#fff3e0" stroke="#c77800" stroke-width="1.8"/>
+<text x="4667" y="1527" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">Hoá đơn</text><text x="4667" y="1537" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">khớp PO</text><text x="4667" y="1547" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">&amp; phiếu</text><text x="4667" y="1557" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">nhập</text><text x="4667" y="1567" font-size="7.0" font-weight="bold" fill="#7a4700" text-anchor="middle">kho?</text>
+<rect x="4615" y="1611" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="4692" y="1635" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 18: Chặn thanh</text><text x="4692" y="1649" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">toán, đối chiếu lại</text><text x="4692" y="1663" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Kho/NCC</text>
+<rect x="4805" y="1511" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="4882" y="1542" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 19: In đề nghị</text><text x="4882" y="1556" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">thanh toán (ZAP12)</text>
+<rect x="4995" y="1511" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="5072" y="1535" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 20: Thực hiện</text><text x="5072" y="1549" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">thanh toán cho NCC</text><text x="5072" y="1563" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">(F110)</text>
+<ellipse cx="5219" cy="1545" rx="34" ry="34" fill="#fbe1e0" stroke="#a85050" stroke-width="4.5"/>
+<text x="5219" y="1542" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Kết</text><text x="5219" y="1555" font-size="10.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">thúc</text>
+<ellipse cx="4079" cy="1645" rx="34" ry="34" fill="#e3f2e3" stroke="#4c8c4c" stroke-width="1.8"/>
+<text x="4079" y="1627" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">Nhận</text><text x="4079" y="1637" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">hoá đơn</text><text x="4079" y="1647" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">chi phí</text><text x="4079" y="1657" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">phát</text><text x="4079" y="1667" font-size="7.0" font-weight="bold" fill="#2a2a2a" text-anchor="middle">sinh</text>
+<rect x="4235" y="1611" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="4312" y="1635" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 21: Kiểm tra &amp;</text><text x="4312" y="1649" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">xác nhận hoá đơn chi</text><text x="4312" y="1663" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">phí phát sinh</text>
+<rect x="4425" y="1611" width="155" height="68" rx="8" ry="8" fill="#eaf2fb" stroke="#4a6f9e" stroke-width="1.8" />
+<text x="4502" y="1635" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Bước 22: Ghi nhận &amp;</text><text x="4502" y="1649" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">Post hoá đơn chi phí</text><text x="4502" y="1663" font-size="11.0" font-weight="normal" fill="#15325c" text-anchor="middle">(MIRO)</text>
+<polygon points="453,77 561,77 573,89 573,129 453,129" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="561,77 561,89 573,89" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="513" y="106" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Yêu cầu mua hàng</text>
+<polygon points="1213,347 1321,347 1333,359 1333,399 1213,399" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="1321,347 1321,359 1333,359" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="1273" y="376" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Báo giá của NCC</text>
+<polygon points="2163,617 2271,617 2283,629 2283,669 2163,669" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="2271,617 2271,629 2283,629" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="2223" y="640" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Hợp đồng (bản</text><text x="2223" y="652" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">cứng)</text>
+<polygon points="2923,347 3031,347 3043,359 3043,399 2923,399" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="3031,347 3031,359 3043,359" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="2983" y="376" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Đơn mua hàng (PO)</text>
+<polygon points="4063,1157 4171,1157 4183,1169 4183,1209 4063,1209" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="4171,1157 4171,1169 4183,1169" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="4123" y="1186" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Phiếu nhập kho</text>
+<polygon points="4063,1427 4171,1427 4183,1439 4183,1479 4063,1479" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="4171,1427 4171,1439 4183,1439" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="4123" y="1456" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Hoá đơn NCC</text>
+<polygon points="4823,1427 4931,1427 4943,1439 4943,1479 4823,1479" fill="#fffbe6" stroke="#b8a12e" stroke-width="1.4"/>
+<polyline points="4931,1427 4931,1439 4943,1439" fill="none" stroke="#b8a12e" stroke-width="1.4"/>
+<text x="4883" y="1450" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">Đề nghị thanh</text><text x="4883" y="1462" font-size="9.5" font-weight="normal" fill="#6b5d00" text-anchor="middle">toán</text>
+</svg>
