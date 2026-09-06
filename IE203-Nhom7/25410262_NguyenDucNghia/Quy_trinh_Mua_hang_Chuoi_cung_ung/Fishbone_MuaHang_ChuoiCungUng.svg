@@ -5,7 +5,7 @@
 <polygon points="1660,461 1676,470 1660,479" fill="#333"/>
 <rect x="1682" y="410" width="280" height="120" rx="10" fill="#fdecea" stroke="#b85450" stroke-width="2"/>
 <text x="1822" y="462" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#8b2f2a">Lead time thu mua nông sản</text>
-<text x="1822" y="484" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#8b2f2a">23,6 ngày (mục tiêu &lt; 15 ngày)</text>
+<text x="1822" y="484" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#8b2f2a">23,8 ngày (mục tiêu &lt; 15 ngày)</text>
 <line x1="300" y1="470" x2="490" y2="170" stroke="#4a6fa5" stroke-width="2.6"/>
 <rect x="370" y="136" width="248" height="34" rx="7" fill="#dbe6f5" stroke="#4a6fa5" stroke-width="1.8"/>
 <text x="494" y="158" font-size="14" font-weight="bold" text-anchor="middle" fill="#20406e">Con người (Man)</text>

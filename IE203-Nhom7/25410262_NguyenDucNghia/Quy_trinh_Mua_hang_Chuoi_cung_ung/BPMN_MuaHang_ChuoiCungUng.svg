@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="6770" height="4574" viewBox="0 0 6770 4574" font-family="Helvetica, Arial, sans-serif">
-<rect width="6770" height="4574" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="6770" height="3854" viewBox="0 0 6770 3854" font-family="Helvetica, Arial, sans-serif">
+<rect width="6770" height="3854" fill="#ffffff"/>
 <text x="26" y="46" font-size="25" font-weight="bold" fill="#111">QL1 – QUẢN LÝ CHUỖI CUNG ỨNG &amp; THU MUA NÔNG SẢN (FARMERS MARKET) · SƠ ĐỒ BPMN AS-IS</text>
 <rect x="0" y="74.0" width="6770" height="52" fill="#eef2f7" stroke="#c3c9d2"/>
 <text x="20" y="106.0" font-size="17" font-weight="bold" fill="#243044">GIAI ĐOẠN 1 — PHÁT SINH NHU CẦU → TÌM NGUỒN &amp; KHẢO SÁT THỊ TRƯỜNG → THẨM ĐỊNH &amp; PHÊ DUYỆT NCC → ĐẶT HÀNG</text>
@@ -17,7 +17,7 @@
 <text x="132.0" y="1030.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng Thu mua</text>
 <rect x="46" y="1206.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
 <rect x="46" y="1206.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
-<text x="132.0" y="1390.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng QA/QC</text>
+<text x="132.0" y="1382.6" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng QA/QC</text><text x="132.0" y="1398.9" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">(thẩm định NCC)</text>
 <rect x="46" y="1566.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
 <rect x="46" y="1566.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
 <text x="132.0" y="1742.6" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Ban Giám đốc /</text><text x="132.0" y="1758.9" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Cấp phê duyệt</text>
@@ -381,238 +381,195 @@
 <path d="M 6659.0 1020.0 L 6659.0 1032.0" stroke="#5b4a9e" stroke-width="2" fill="none"/>
 <text x="6672.0" y="1079.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">A → Giai đoạn 2</text>
 <rect x="0" y="2332.0" width="6770" height="52" fill="#eef2f7" stroke="#c3c9d2"/>
-<text x="20" y="2364.0" font-size="17" font-weight="bold" fill="#243044">GIAI ĐOẠN 2 — GIAO HÀNG → KIỂM SOÁT CHẤT LƯỢNG ĐẦU VÀO → NHẬP KHO → ĐỐI CHIẾU &amp; THANH TOÁN</text>
+<text x="20" y="2364.0" font-size="17" font-weight="bold" fill="#243044">GIAI ĐOẠN 2 — GIAO HÀNG → BÀN GIAO CHO QL2 KIỂM SOÁT CHẤT LƯỢNG &amp; NHẬP KHO → ĐỐI CHIẾU 3 CHIỀU &amp; THANH TOÁN</text>
 <rect x="0" y="2384.0" width="6770" height="360.0" fill="#f7f9fc" stroke="#8b93a1" stroke-width="2"/>
 <rect x="0" y="2384.0" width="46" height="360.0" fill="#dfe7f2" stroke="#8b93a1" stroke-width="2"/>
 <text transform="translate(29.0,2564.0) rotate(-90)" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d2735">NHÀ CUNG CẤP</text>
 <rect x="46" y="2384.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
 <rect x="46" y="2384.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
 <text x="132.0" y="2560.6" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Nông trại / HTX /</text><text x="132.0" y="2576.9" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Cơ sở sơ chế</text>
-<rect x="0" y="2744.0" width="6770" height="1800.0" fill="#fdf8f3" stroke="#8b93a1" stroke-width="2"/>
-<rect x="0" y="2744.0" width="46" height="1800.0" fill="#f3e3d2" stroke="#8b93a1" stroke-width="2"/>
-<text transform="translate(29.0,3644.0) rotate(-90)" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d2735">FARMERS MARKET</text>
+<rect x="0" y="2744.0" width="6770" height="1080.0" fill="#fdf8f3" stroke="#8b93a1" stroke-width="2"/>
+<rect x="0" y="2744.0" width="46" height="1080.0" fill="#f3e3d2" stroke="#8b93a1" stroke-width="2"/>
+<text transform="translate(29.0,3284.0) rotate(-90)" font-size="16" font-weight="bold" text-anchor="middle" fill="#1d2735">FARMERS MARKET</text>
 <rect x="46" y="2744.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
 <rect x="46" y="2744.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
-<text x="132.0" y="2928.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Kho trung tâm</text>
+<text x="132.0" y="2928.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng Thu mua</text>
 <rect x="46" y="3104.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
 <rect x="46" y="3104.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
-<text x="132.0" y="3288.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng QA/QC</text>
+<text x="132.0" y="3288.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng Kế toán</text>
 <rect x="46" y="3464.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
 <rect x="46" y="3464.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
-<text x="132.0" y="3648.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng Thu mua</text>
-<rect x="46" y="3824.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
-<rect x="46" y="3824.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
-<text x="132.0" y="4008.7" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Phòng Kế toán</text>
-<rect x="46" y="4184.0" width="6724" height="360" fill="#ffffff" fill-opacity="0.55" stroke="#b9c0ca"/>
-<rect x="46" y="4184.0" width="172" height="360" fill="#ffffff" fill-opacity="0.8" stroke="#b9c0ca"/>
-<text x="132.0" y="4360.6" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Ban Giám đốc /</text><text x="132.0" y="4376.9" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Cấp phê duyệt</text>
-<path d="M 342.0 3644.0 L 430.0 3644.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="430.0,3644.0 418.0,3638.0 418.0,3650.0" fill="#46505e"/>
-<path d="M 510.0 3644.0 L 541.0 3644.0 L 541.0 4004.0 L 572.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="572.0,4004.0 560.0,3998.0 560.0,4010.0" fill="#46505e"/>
-<rect x="529.5" y="3816.5" width="23.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="541.0" y="3827.4" font-size="9.8" text-anchor="middle" fill="#333">Có</text>
-<path d="M 762.0 4004.0 L 778.0 4004.0 L 778.0 2924.0 L 794.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<text x="132.0" y="3640.6" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Ban Giám đốc /</text><text x="132.0" y="3656.9" font-size="13.5" text-anchor="middle" fill="#20232a" font-weight="bold">Cấp phê duyệt</text>
+<path d="M 342.0 2924.0 L 430.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="430.0,2924.0 418.0,2918.0 418.0,2930.0" fill="#46505e"/>
+<path d="M 510.0 2924.0 L 541.0 2924.0 L 541.0 3284.0 L 572.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="572.0,3284.0 560.0,3278.0 560.0,3290.0" fill="#46505e"/>
+<rect x="529.5" y="3096.5" width="23.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="541.0" y="3107.4" font-size="9.8" text-anchor="middle" fill="#333">Có</text>
+<path d="M 762.0 3284.0 L 778.0 3284.0 L 778.0 2924.0 L 794.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
 <polygon points="794.0,2924.0 782.0,2918.0 782.0,2930.0" fill="#46505e"/>
-<path d="M 510.0 3644.0 L 534.0 3644.0 L 534.0 2924.0 L 794.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<path d="M 510.0 2924.0 L 794.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
 <polygon points="794.0,2924.0 782.0,2918.0 782.0,2930.0" fill="#46505e"/>
-<rect x="514.2" y="3276.5" width="39.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="534.0" y="3287.4" font-size="9.8" text-anchor="middle" fill="#333">Không</text>
+<rect x="632.2" y="2916.5" width="39.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="652.0" y="2927.4" font-size="9.8" text-anchor="middle" fill="#333">Không</text>
 <path d="M 984.0 2924.0 L 1079.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
 <polygon points="1079.0,2924.0 1067.0,2918.0 1067.0,2930.0" fill="#46505e"/>
 <path d="M 699.0 2564.0 L 794.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
 <polygon points="794.0,2564.0 782.0,2558.0 782.0,2570.0" fill="#46505e"/>
 <path d="M 984.0 2564.0 L 1016.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
 <polygon points="1016.0,2564.0 1004.0,2558.0 1004.0,2570.0" fill="#46505e"/>
-<path d="M 1206.0 2564.0 L 2770.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2770.0,2564.0 2758.0,2558.0 2758.0,2570.0" fill="#46505e"/>
-<path d="M 2960.0 2564.0 L 4224.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="4224.0,2564.0 4212.0,2558.0 4212.0,2570.0" fill="#46505e"/>
-<path d="M 4414.0 2564.0 L 4472.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="4472.0,2564.0 4460.0,2558.0 4460.0,2570.0" fill="#46505e"/>
+<path d="M 1206.0 2564.0 L 1804.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="1804.0,2564.0 1792.0,2558.0 1792.0,2570.0" fill="#46505e"/>
+<path d="M 1994.0 2564.0 L 3480.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="3480.0,2564.0 3468.0,2558.0 3468.0,2570.0" fill="#46505e"/>
+<path d="M 3670.0 2564.0 L 3728.0 2564.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="3728.0,2564.0 3716.0,2558.0 3716.0,2570.0" fill="#46505e"/>
 <path d="M 1143.0 2924.0 L 1268.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
 <polygon points="1268.0,2924.0 1256.0,2918.0 1256.0,2930.0" fill="#46505e"/>
-<path d="M 1348.0 2924.0 L 1379.0 2924.0 L 1379.0 2819.0 L 1410.0 2819.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1410.0,2819.0 1398.0,2813.0 1398.0,2825.0" fill="#46505e"/>
-<rect x="1342.8" y="2864.0" width="72.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="1379.0" y="2874.9" font-size="9.8" text-anchor="middle" fill="#333">Không (trễ)</text>
-<path d="M 1505.0 2865.0 L 1505.0 2894.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1505.0,2894.0 1499.0,2882.0 1511.0,2882.0" fill="#46505e"/>
-<path d="M 1348.0 2924.0 L 1475.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1475.0,2924.0 1463.0,2918.0 1463.0,2930.0" fill="#46505e"/>
-<rect x="1383.5" y="2916.5" width="56.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="1411.5" y="2927.4" font-size="9.8" text-anchor="middle" fill="#333">Đúng hẹn</text>
-<path d="M 1535.0 2924.0 L 1632.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1632.0,2924.0 1620.0,2918.0 1620.0,2930.0" fill="#46505e"/>
-<path d="M 1535.0 2924.0 L 1583.5 2924.0 L 1583.5 3284.0 L 1632.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1632.0,3284.0 1620.0,3278.0 1620.0,3290.0" fill="#46505e"/>
-<path d="M 1822.0 2924.0 L 1872.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1872.0,2924.0 1860.0,2918.0 1860.0,2930.0" fill="#46505e"/>
-<path d="M 1822.0 3284.0 L 1847.0 3284.0 L 1847.0 2924.0 L 1872.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="1872.0,2924.0 1860.0,2918.0 1860.0,2930.0" fill="#46505e"/>
-<path d="M 1932.0 2924.0 L 2012.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2012.0,2924.0 2000.0,2918.0 2000.0,2930.0" fill="#46505e"/>
-<path d="M 2092.0 2924.0 L 2138.0 2924.0 L 2138.0 3284.0 L 2184.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2184.0,3284.0 2172.0,3278.0 2172.0,3290.0" fill="#46505e"/>
-<rect x="2107.2" y="3096.5" width="61.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="2138.0" y="3107.4" font-size="9.8" text-anchor="middle" fill="#333">Không đạt</text>
-<path d="M 2092.0 2924.0 L 2548.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2548.0,2924.0 2536.0,2918.0 2536.0,2930.0" fill="#46505e"/>
-<rect x="2305.8" y="2916.5" width="28.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="2320.0" y="2927.4" font-size="9.8" text-anchor="middle" fill="#333">Đạt</text>
-<path d="M 2264.0 3284.0 L 2295.0 3284.0 L 2295.0 3179.0 L 2326.0 3179.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2326.0,3179.0 2314.0,3173.0 2314.0,3185.0" fill="#46505e"/>
-<rect x="2267.0" y="3224.0" width="56.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="2295.0" y="3234.9" font-size="9.8" text-anchor="middle" fill="#333">Một phần</text>
-<path d="M 2264.0 3284.0 L 2295.0 3284.0 L 2295.0 3389.0 L 2326.0 3389.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2326.0,3389.0 2314.0,3383.0 2314.0,3395.0" fill="#46505e"/>
-<rect x="2269.8" y="3329.0" width="50.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="2295.0" y="3339.9" font-size="9.8" text-anchor="middle" fill="#333">Toàn bộ</text>
-<path d="M 2516.0 3179.0 L 2532.0 3179.0 L 2532.0 2924.0 L 2548.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2548.0,2924.0 2536.0,2918.0 2536.0,2930.0" fill="#46505e"/>
-<path d="M 2516.0 3389.0 L 2611.0 3389.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2611.0,3389.0 2599.0,3383.0 2599.0,3395.0" fill="#46505e"/>
-<path d="M 2738.0 2924.0 L 2754.0 2924.0 L 2754.0 4004.0 L 2770.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2770.0,4004.0 2758.0,3998.0 2758.0,4010.0" fill="#46505e"/>
-<path d="M 2960.0 4004.0 L 2992.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="2992.0,4004.0 2980.0,3998.0 2980.0,4010.0" fill="#46505e"/>
-<path d="M 3182.0 4004.0 L 3244.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="3244.0,4004.0 3232.0,3998.0 3232.0,4010.0" fill="#46505e"/>
-<path d="M 3324.0 4004.0 L 3355.0 4004.0 L 3355.0 4109.0 L 3386.0 4109.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="3386.0,4109.0 3374.0,4103.0 3374.0,4115.0" fill="#46505e"/>
-<rect x="3338.0" y="4049.0" width="34.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="3355.0" y="4059.9" font-size="9.8" text-anchor="middle" fill="#333">Lệch</text>
-<path d="M 3481.0 4155.0 L 3481.0 4171.0 L 3087.0 4171.0 L 3087.0 4050.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="3087.0,4050.0 3081.0,4062.0 3093.0,4062.0" fill="#46505e"/>
-<path d="M 3324.0 4004.0 L 3386.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="3386.0,4004.0 3374.0,3998.0 3374.0,4010.0" fill="#46505e"/>
-<rect x="3338.0" y="3996.5" width="34.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="3355.0" y="4007.4" font-size="9.8" text-anchor="middle" fill="#333">Khớp</text>
-<path d="M 3576.0 4004.0 L 3638.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="3638.0,4004.0 3626.0,3998.0 3626.0,4010.0" fill="#46505e"/>
-<path d="M 3718.0 4004.0 L 3749.0 4004.0 L 3749.0 4364.0 L 3780.0 4364.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="3780.0,4364.0 3768.0,4358.0 3768.0,4370.0" fill="#46505e"/>
-<rect x="3737.5" y="4176.5" width="23.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="3749.0" y="4187.4" font-size="9.8" text-anchor="middle" fill="#333">Có</text>
-<path d="M 3718.0 4004.0 L 4002.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="4002.0,4004.0 3990.0,3998.0 3990.0,4010.0" fill="#46505e"/>
-<rect x="3840.2" y="3996.5" width="39.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
-<text x="3860.0" y="4007.4" font-size="9.8" text-anchor="middle" fill="#333">Không</text>
-<path d="M 3970.0 4364.0 L 3986.0 4364.0 L 3986.0 4004.0 L 4002.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="4002.0,4004.0 3990.0,3998.0 3990.0,4010.0" fill="#46505e"/>
-<path d="M 4192.0 4004.0 L 4287.0 4004.0" fill="none" stroke="#46505e" stroke-width="2"/>
-<polygon points="4287.0,4004.0 4275.0,3998.0 4275.0,4010.0" fill="#46505e"/>
-<path d="M 762.0 4004.0 L 780.0 4004.0 L 780.0 2564.0 L 699.0 2564.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
+<path d="M 1348.0 2924.0 L 1379.0 2924.0 L 1379.0 2816.0 L 1410.0 2816.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="1410.0,2816.0 1398.0,2810.0 1398.0,2822.0" fill="#46505e"/>
+<rect x="1342.8" y="2862.5" width="72.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="1379.0" y="2873.4" font-size="9.8" text-anchor="middle" fill="#333">Không (trễ)</text>
+<path d="M 1505.0 2862.0 L 1505.0 2878.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="1505.0,2878.0 1499.0,2866.0 1511.0,2866.0" fill="#46505e"/>
+<path d="M 1348.0 2924.0 L 1410.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="1410.0,2924.0 1398.0,2918.0 1398.0,2930.0" fill="#46505e"/>
+<rect x="1351.0" y="2916.5" width="56.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="1379.0" y="2927.4" font-size="9.8" text-anchor="middle" fill="#333">Đúng hẹn</text>
+<path d="M 1600.0 2924.0 L 1662.0 2924.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="1662.0,2924.0 1650.0,2918.0 1650.0,2930.0" fill="#46505e"/>
+<path d="M 1742.0 2924.0 L 1773.0 2924.0 L 1773.0 3032.0 L 1804.0 3032.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="1804.0,3032.0 1792.0,3026.0 1792.0,3038.0" fill="#46505e"/>
+<rect x="1742.2" y="2970.5" width="61.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="1773.0" y="2981.4" font-size="9.8" text-anchor="middle" fill="#333">Không đạt</text>
+<path d="M 1994.0 3032.0 L 2089.0 3032.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2089.0,3032.0 2077.0,3026.0 2077.0,3038.0" fill="#46505e"/>
+<path d="M 1742.0 2924.0 L 1766.0 2924.0 L 1766.0 3284.0 L 2026.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2026.0,3284.0 2014.0,3278.0 2014.0,3290.0" fill="#46505e"/>
+<rect x="1713.2" y="3096.5" width="105.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="1766.0" y="3107.4" font-size="9.8" text-anchor="middle" fill="#333">Đạt – đã nhập kho</text>
+<path d="M 2216.0 3284.0 L 2248.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2248.0,3284.0 2236.0,3278.0 2236.0,3290.0" fill="#46505e"/>
+<path d="M 2438.0 3284.0 L 2500.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2500.0,3284.0 2488.0,3278.0 2488.0,3290.0" fill="#46505e"/>
+<path d="M 2580.0 3284.0 L 2611.0 3284.0 L 2611.0 3389.0 L 2642.0 3389.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2642.0,3389.0 2630.0,3383.0 2630.0,3395.0" fill="#46505e"/>
+<rect x="2594.0" y="3329.0" width="34.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="2611.0" y="3339.9" font-size="9.8" text-anchor="middle" fill="#333">Lệch</text>
+<path d="M 2737.0 3435.0 L 2737.0 3451.0 L 2343.0 3451.0 L 2343.0 3330.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2343.0,3330.0 2337.0,3342.0 2349.0,3342.0" fill="#46505e"/>
+<path d="M 2580.0 3284.0 L 2642.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2642.0,3284.0 2630.0,3278.0 2630.0,3290.0" fill="#46505e"/>
+<rect x="2594.0" y="3276.5" width="34.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="2611.0" y="3287.4" font-size="9.8" text-anchor="middle" fill="#333">Khớp</text>
+<path d="M 2832.0 3284.0 L 2894.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="2894.0,3284.0 2882.0,3278.0 2882.0,3290.0" fill="#46505e"/>
+<path d="M 2974.0 3284.0 L 3005.0 3284.0 L 3005.0 3644.0 L 3036.0 3644.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="3036.0,3644.0 3024.0,3638.0 3024.0,3650.0" fill="#46505e"/>
+<rect x="2993.5" y="3456.5" width="23.0" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="3005.0" y="3467.4" font-size="9.8" text-anchor="middle" fill="#333">Có</text>
+<path d="M 2974.0 3284.0 L 3258.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="3258.0,3284.0 3246.0,3278.0 3246.0,3290.0" fill="#46505e"/>
+<rect x="3096.2" y="3276.5" width="39.5" height="15.0" rx="3" fill="#ffffff" stroke="#d8d8d8"/>
+<text x="3116.0" y="3287.4" font-size="9.8" text-anchor="middle" fill="#333">Không</text>
+<path d="M 3226.0 3644.0 L 3242.0 3644.0 L 3242.0 3284.0 L 3258.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="3258.0,3284.0 3246.0,3278.0 3246.0,3290.0" fill="#46505e"/>
+<path d="M 3448.0 3284.0 L 3543.0 3284.0" fill="none" stroke="#46505e" stroke-width="2"/>
+<polygon points="3543.0,3284.0 3531.0,3278.0 3531.0,3290.0" fill="#46505e"/>
+<path d="M 762.0 3284.0 L 780.0 3284.0 L 780.0 2564.0 L 699.0 2564.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
 <polyline points="711.0,2558.0 699.0,2564.0 711.0,2570.0" fill="none" stroke="#9a5b2e" stroke-width="1.8"/>
-<rect x="727.2" y="3270.5" width="105.5" height="27.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
-<text x="780.0" y="3281.1" font-size="9.8" text-anchor="middle" fill="#7c451c">Thông báo đặt cọc</text><text x="780.0" y="3293.7" font-size="9.8" text-anchor="middle" fill="#7c451c">/ lịch giao</text>
+<rect x="727.2" y="2910.5" width="105.5" height="27.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
+<text x="780.0" y="2921.1" font-size="9.8" text-anchor="middle" fill="#7c451c">Thông báo đặt cọc</text><text x="780.0" y="2933.7" font-size="9.8" text-anchor="middle" fill="#7c451c">/ lịch giao</text>
 <path d="M 1206.0 2564.0 L 1224.0 2564.0 L 1224.0 2924.0 L 1143.0 2924.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
 <polyline points="1155.0,2918.0 1143.0,2924.0 1155.0,2930.0" fill="none" stroke="#9a5b2e" stroke-width="1.8"/>
 <rect x="1176.8" y="2730.5" width="94.5" height="27.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
 <text x="1224.0" y="2741.1" font-size="9.8" text-anchor="middle" fill="#7c451c">Lô hàng + phiếu</text><text x="1224.0" y="2753.7" font-size="9.8" text-anchor="middle" fill="#7c451c">giao</text>
-<path d="M 2960.0 2564.0 L 2978.0 2564.0 L 2978.0 4004.0 L 2960.0 4004.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
-<polyline points="2972.0,3998.0 2960.0,4004.0 2972.0,4010.0" fill="none" stroke="#9a5b2e" stroke-width="1.8"/>
-<rect x="2941.8" y="3276.5" width="72.5" height="15.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
-<text x="2978.0" y="3287.4" font-size="9.8" text-anchor="middle" fill="#7c451c">Hoá đơn NCC</text>
-<path d="M 4192.0 4004.0 L 4206.0 4004.0 L 4206.0 2564.0 L 4224.0 2564.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
-<polyline points="4212.0,2558.0 4224.0,2564.0 4212.0,2570.0" fill="none" stroke="#9a5b2e" stroke-width="1.8"/>
-<rect x="4167.0" y="3276.5" width="78.0" height="15.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
-<text x="4206.0" y="3287.4" font-size="9.8" text-anchor="middle" fill="#7c451c">Uỷ nhiệm chi</text>
-<path d="M 1727.0 3330.0 L 1727.0 3343.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
-<path d="M 2643.0 2970.0 L 2643.0 2983.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
-<path d="M 2865.0 4050.0 L 2865.0 4063.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
-<path d="M 3481.0 3958.0 L 3481.0 3945.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
-<circle cx="310.0" cy="3644.0" r="32" fill="#eae6f7" stroke="#5b4a9e" stroke-width="2.6"/>
-<path d="M 297.0 3638.0 L 312.0 3638.0 L 312.0 3632.0 L 324.0 3644.0 L 312.0 3656.0 Z" fill="none" stroke="#5b4a9e" stroke-width="2"/>
-<path d="M 297.0 3638.0 L 297.0 3650.0" stroke="#5b4a9e" stroke-width="2" fill="none"/>
-<text x="310.0" y="3697.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">A – tiếp từ Giai đoạn 1</text>
-<polygon points="470.0,3604.0 510.0,3644.0 470.0,3684.0 430.0,3644.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 459.0 3633.0 L 481.0 3655.0 M 481.0 3633.0 L 459.0 3655.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
-<text x="470.0" y="3694.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Có điều khoản</text><text x="470.0" y="3707.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">trả trước /</text><text x="470.0" y="3720.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">đặt cọc?</text>
-<rect x="572.0" y="3958.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="667.0" y="4001.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B19: Lập &amp; duyệt đề nghị tạm ứng,</text><text x="667.0" y="4014.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">chuyển tiền đặt cọc cho NCC</text>
-<rect x="794.0" y="2878.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="889.0" y="2914.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B20: Nhận lịch giao, bố trí slot</text><text x="889.0" y="2927.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">nhận hàng,</text><text x="889.0" y="2941.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">nhân sự &amp; khu vực kiểm đầu vào</text>
+<path d="M 1994.0 2564.0 L 2008.0 2564.0 L 2008.0 3284.0 L 2026.0 3284.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
+<polyline points="2014.0,3278.0 2026.0,3284.0 2014.0,3290.0" fill="none" stroke="#9a5b2e" stroke-width="1.8"/>
+<rect x="1971.8" y="2916.5" width="72.5" height="15.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
+<text x="2008.0" y="2927.4" font-size="9.8" text-anchor="middle" fill="#7c451c">Hoá đơn NCC</text>
+<path d="M 3448.0 3284.0 L 3462.0 3284.0 L 3462.0 2564.0 L 3480.0 2564.0" fill="none" stroke="#9a5b2e" stroke-width="1.9" stroke-dasharray="9,6"/>
+<polyline points="3468.0,2558.0 3480.0,2564.0 3468.0,2570.0" fill="none" stroke="#9a5b2e" stroke-width="1.8"/>
+<rect x="3423.0" y="2916.5" width="78.0" height="15.0" rx="3" fill="#fff8f1" stroke="#e0c3a5"/>
+<text x="3462.0" y="2927.4" font-size="9.8" text-anchor="middle" fill="#7c451c">Uỷ nhiệm chi</text>
+<path d="M 2121.0 3238.0 L 2121.0 3225.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
+<path d="M 2343.0 3330.0 L 2343.0 3343.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
+<path d="M 2737.0 3238.0 L 2737.0 3225.0" fill="none" stroke="#a0a0a0" stroke-width="1.4" stroke-dasharray="5,4"/>
+<circle cx="310.0" cy="2924.0" r="32" fill="#eae6f7" stroke="#5b4a9e" stroke-width="2.6"/>
+<path d="M 297.0 2918.0 L 312.0 2918.0 L 312.0 2912.0 L 324.0 2924.0 L 312.0 2936.0 Z" fill="none" stroke="#5b4a9e" stroke-width="2"/>
+<path d="M 297.0 2918.0 L 297.0 2930.0" stroke="#5b4a9e" stroke-width="2" fill="none"/>
+<text x="310.0" y="2977.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">A – tiếp từ Giai đoạn 1</text>
+<polygon points="470.0,2884.0 510.0,2924.0 470.0,2964.0 430.0,2924.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
+<path d="M 459.0 2913.0 L 481.0 2935.0 M 481.0 2913.0 L 459.0 2935.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
+<text x="470.0" y="2974.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Có điều khoản</text><text x="470.0" y="2987.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">trả trước /</text><text x="470.0" y="3000.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">đặt cọc?</text>
+<rect x="572.0" y="3238.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="667.0" y="3281.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B19: Lập &amp; duyệt đề nghị tạm ứng,</text><text x="667.0" y="3294.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">chuyển tiền đặt cọc cho NCC</text>
 <circle cx="667.0" cy="2564.0" r="32" fill="#e6f4ea" stroke="#2e7d32" stroke-width="2.4"/>
 <rect x="654.0" y="2555.5" width="26" height="17" fill="none" stroke="#2e7d32" stroke-width="1.7"/>
 <path d="M 654.0 2555.5 L 667.0 2566.0 L 680.0 2555.5" fill="none" stroke="#2e7d32" stroke-width="1.7"/>
 <text x="667.0" y="2611.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Nhận thông báo</text><text x="667.0" y="2624.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">đặt cọc / lịch giao</text>
-<circle cx="4504.0" cy="2564.0" r="32" fill="#fdecea" stroke="#b3261e" stroke-width="4.2"/>
-<circle cx="4504.0" cy="2564.0" r="12" fill="#b3261e"/>
-<text x="4504.0" y="2611.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết thúc – Đã nhận</text><text x="4504.0" y="2624.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">thanh toán</text>
 <rect x="794.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
 <text x="889.0" y="2554.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N5: Thu hoạch / gom hàng, sơ chế,</text><text x="889.0" y="2567.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">đóng gói theo yêu cầu Farmers</text><text x="889.0" y="2581.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">Market</text>
+<rect x="794.0" y="2878.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="889.0" y="2921.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B20: Theo dõi tiến độ giao của NCC</text><text x="889.0" y="2934.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">theo lịch &amp; khung giờ đã chốt</text>
+<rect x="1016.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="1111.0" y="2561.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N6: Giao hàng đến kho trung tâm</text><text x="1111.0" y="2574.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">theo PO &amp; khung giờ đã hẹn</text>
 <circle cx="1111.0" cy="2924.0" r="32" fill="#fff6e0" stroke="#b07d20" stroke-width="2.4"/>
 <rect x="1098.0" y="2915.5" width="26" height="17" fill="none" stroke="#b07d20" stroke-width="1.7"/>
 <path d="M 1098.0 2915.5 L 1111.0 2926.0 L 1124.0 2915.5" fill="none" stroke="#b07d20" stroke-width="1.7"/>
-<text x="1111.0" y="2971.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Xe hàng NCC</text><text x="1111.0" y="2984.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">đến kho</text>
-<rect x="1016.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="1111.0" y="2561.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N6: Giao hàng đến kho trung tâm</text><text x="1111.0" y="2574.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">theo PO &amp; khung giờ đã hẹn</text>
+<text x="1111.0" y="2971.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">NCC đã giao hàng</text><text x="1111.0" y="2984.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">đến kho trung tâm</text>
 <polygon points="1308.0,2884.0 1348.0,2924.0 1308.0,2964.0 1268.0,2924.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
 <path d="M 1297.0 2913.0 L 1319.0 2935.0 M 1319.0 2913.0 L 1297.0 2935.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
 <text x="1308.0" y="2981.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Giao đúng</text><text x="1308.0" y="2994.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">khung giờ hẹn?</text>
-<rect x="1410.0" y="2773.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="1505.0" y="2809.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B21: Ghi nhận trễ hẹn, xếp lại slot</text><text x="1505.0" y="2822.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">nhận hàng,</text><text x="1505.0" y="2836.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">trừ điểm OTIF của NCC</text>
-<polygon points="1505.0,2894.0 1535.0,2924.0 1505.0,2954.0 1475.0,2924.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 1492.0 2924.0 L 1518.0 2924.0 M 1505.0 2911.0 L 1505.0 2937.0" stroke="#8a6d1f" stroke-width="3.2" fill="none"/>
-<text x="1505.0" y="2972.5" font-size="10.0" text-anchor="middle" fill="#6b5a1a" font-weight="bold">Song song</text>
-<rect x="1632.0" y="2878.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="1727.0" y="2914.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B22a: Cân trọng lượng thực nhận,</text><text x="1727.0" y="2927.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">đối chiếu</text><text x="1727.0" y="2941.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">số lượng &amp; chủng loại với PO</text>
-<rect x="1632.0" y="3238.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="1727.0" y="3274.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B22b: Kiểm cảm quan, nhiệt độ tâm</text><text x="1727.0" y="3287.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">hàng, hạn dùng,</text><text x="1727.0" y="3301.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">test nhanh dư lượng (chuyển QL2)</text>
-<path d="M 1642.0 3343.0 L 1796.0 3343.0 L 1812.0 3359.0 L 1812.0 3417.0 L 1642.0 3417.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
-<path d="M 1796.0 3343.0 L 1796.0 3359.0 L 1812.0 3359.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
-<text x="1727.0" y="3377.1" font-size="9.8" text-anchor="middle" fill="#444">Phiếu kiểm nhận ·</text><text x="1727.0" y="3389.7" font-size="9.8" text-anchor="middle" fill="#444">Kết quả test nhanh</text>
-<polygon points="1902.0,2894.0 1932.0,2924.0 1902.0,2954.0 1872.0,2924.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 1889.0 2924.0 L 1915.0 2924.0 M 1902.0 2911.0 L 1902.0 2937.0" stroke="#8a6d1f" stroke-width="3.2" fill="none"/>
-<text x="1902.0" y="2972.5" font-size="10.0" text-anchor="middle" fill="#6b5a1a" font-weight="bold">Song song</text>
-<polygon points="2052.0,2884.0 2092.0,2924.0 2052.0,2964.0 2012.0,2924.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 2041.0 2913.0 L 2063.0 2935.0 M 2063.0 2913.0 L 2041.0 2935.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
-<text x="2052.0" y="2974.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Lô hàng đạt</text><text x="2052.0" y="2987.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">số lượng &amp;</text><text x="2052.0" y="3000.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">chất lượng?</text>
-<polygon points="2224.0,3244.0 2264.0,3284.0 2224.0,3324.0 2184.0,3284.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 2213.0 3273.0 L 2235.0 3295.0 M 2235.0 3273.0 L 2213.0 3295.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
-<text x="2224.0" y="3334.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Không đạt:</text><text x="2224.0" y="3347.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">một phần hay</text><text x="2224.0" y="3360.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">toàn bộ lô?</text>
-<rect x="2326.0" y="3133.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="2421.0" y="3169.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B23: Lập biên bản không phù hợp</text><text x="2421.0" y="3182.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">(NCR),</text><text x="2421.0" y="3196.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">nhận phần đạt, trả phần không đạt</text>
-<rect x="2326.0" y="3343.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="2421.0" y="3379.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B24: Trả toàn bộ lô, yêu cầu NCC</text><text x="2421.0" y="3392.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">giao bù,</text><text x="2421.0" y="3406.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">trừ điểm đánh giá NCC</text>
-<circle cx="2643.0" cy="3389.0" r="32" fill="#fdecea" stroke="#b3261e" stroke-width="4.2"/>
-<circle cx="2643.0" cy="3389.0" r="12" fill="#b3261e"/>
-<text x="2643.0" y="3334.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết thúc – Trả lô,</text><text x="2643.0" y="3347.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">chờ NCC giao bù</text>
-<rect x="2548.0" y="2878.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="2643.0" y="2907.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B25: Nhập kho, cập nhật tồn &amp; vị</text><text x="2643.0" y="2921.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">trí, gắn số lô</text><text x="2643.0" y="2934.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">+ hạn dùng, in tem truy xuất nguồn</text><text x="2643.0" y="2947.6" font-size="10.5" text-anchor="middle" fill="#1a1a1a">gốc</text>
-<path d="M 2558.0 2983.0 L 2712.0 2983.0 L 2728.0 2999.0 L 2728.0 3057.0 L 2558.0 3057.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
-<path d="M 2712.0 2983.0 L 2712.0 2999.0 L 2728.0 2999.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
-<text x="2643.0" y="3017.1" font-size="9.8" text-anchor="middle" fill="#444">Phiếu nhập kho ·</text><text x="2643.0" y="3029.7" font-size="9.8" text-anchor="middle" fill="#444">Tem truy xuất</text>
-<rect x="2770.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="2865.0" y="2561.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N7: Xuất &amp; gửi hoá đơn</text><text x="2865.0" y="2574.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">cho Farmers Market</text>
-<rect x="2770.0" y="3958.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="2865.0" y="4001.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B26: Nhận &amp; ghi nhận</text><text x="2865.0" y="4014.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">hoá đơn của NCC</text>
-<path d="M 2780.0 4063.0 L 2934.0 4063.0 L 2950.0 4079.0 L 2950.0 4137.0 L 2780.0 4137.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
-<path d="M 2934.0 4063.0 L 2934.0 4079.0 L 2950.0 4079.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
-<text x="2865.0" y="4103.4" font-size="9.8" text-anchor="middle" fill="#444">Hoá đơn NCC</text>
-<rect x="2992.0" y="3958.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="3087.0" y="4001.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B27: Đối chiếu 3 chiều:</text><text x="3087.0" y="4014.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">PO – Phiếu nhập kho – Hoá đơn</text>
-<polygon points="3284.0,3964.0 3324.0,4004.0 3284.0,4044.0 3244.0,4004.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 3273.0 3993.0 L 3295.0 4015.0 M 3295.0 3993.0 L 3273.0 4015.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
-<text x="3284.0" y="4061.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Khớp</text><text x="3284.0" y="4074.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">3 chiều?</text>
-<rect x="3386.0" y="4063.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="3481.0" y="4106.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B28: Tạm giữ thanh toán,</text><text x="3481.0" y="4119.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">đối chiếu lại với Kho / NCC</text>
-<rect x="3386.0" y="3958.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="3481.0" y="4001.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B29: Lập đề nghị thanh toán,</text><text x="3481.0" y="4014.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">cấn trừ tiền đặt cọc (nếu có)</text>
-<path d="M 3396.0 3871.0 L 3550.0 3871.0 L 3566.0 3887.0 L 3566.0 3945.0 L 3396.0 3945.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
-<path d="M 3550.0 3871.0 L 3550.0 3887.0 L 3566.0 3887.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
-<text x="3481.0" y="3911.4" font-size="9.8" text-anchor="middle" fill="#444">Đề nghị thanh toán</text>
-<polygon points="3678.0,3964.0 3718.0,4004.0 3678.0,4044.0 3638.0,4004.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
-<path d="M 3667.0 3993.0 L 3689.0 4015.0 M 3689.0 3993.0 L 3667.0 4015.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
-<text x="3678.0" y="4054.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Vượt hạn mức</text><text x="3678.0" y="4067.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">duyệt chi của</text><text x="3678.0" y="4080.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kế toán trưởng?</text>
-<rect x="3780.0" y="4318.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="3875.0" y="4361.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B30: Ban Giám đốc</text><text x="3875.0" y="4374.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">duyệt chi</text>
-<rect x="4002.0" y="3958.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="4097.0" y="4001.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B31: Thanh toán cho NCC</text><text x="4097.0" y="4014.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">theo kỳ hạn 15–30 ngày</text>
-<rect x="4224.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
-<text x="4319.0" y="2561.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N8: Nhận thanh toán,</text><text x="4319.0" y="2574.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">xác nhận tất toán công nợ</text>
-<circle cx="4319.0" cy="4004.0" r="32" fill="#fdecea" stroke="#b3261e" stroke-width="4.2"/>
-<circle cx="4319.0" cy="4004.0" r="12" fill="#b3261e"/>
-<text x="4319.0" y="4051.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết thúc – Hoàn tất</text><text x="4319.0" y="4064.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">thanh toán &amp; đóng PO</text>
+<rect x="1410.0" y="2770.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="1505.0" y="2806.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B21: Ghi nhận trễ hẹn, trừ điểm</text><text x="1505.0" y="2819.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">OTIF</text><text x="1505.0" y="2833.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">của nhà cung cấp</text>
+<rect x="1410.0" y="2878.0" width="190.0" height="92.0" rx="9" fill="#eef0e6" stroke="#6b7a3a" stroke-width="3.4"/>
+<text x="1505.0" y="2908.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B22: Bàn giao lô hàng cho quy trình</text><text x="1505.0" y="2921.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">QL2 –</text><text x="1505.0" y="2935.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">Quản lý chất lượng &amp; ATTP nông sản</text>
+<rect x="1498.0" y="2950.0" width="14" height="14" fill="none" stroke="#6b7a3a" stroke-width="1.8"/>
+<path d="M 1501.0 2957.0 L 1509.0 2957.0 M 1505.0 2953.0 L 1505.0 2961.0" stroke="#6b7a3a" stroke-width="1.8"/>
+<polygon points="1702.0,2884.0 1742.0,2924.0 1702.0,2964.0 1662.0,2924.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
+<path d="M 1691.0 2913.0 L 1713.0 2935.0 M 1713.0 2913.0 L 1691.0 2935.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
+<text x="1702.0" y="2981.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết quả QL2:</text><text x="1702.0" y="2994.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">lô hàng đạt?</text>
+<rect x="1804.0" y="2986.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="1899.0" y="3029.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B23: Yêu cầu NCC giao bù, trừ điểm</text><text x="1899.0" y="3042.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">đánh giá nhà cung cấp</text>
+<circle cx="2121.0" cy="3032.0" r="32" fill="#fdecea" stroke="#b3261e" stroke-width="4.2"/>
+<circle cx="2121.0" cy="3032.0" r="12" fill="#b3261e"/>
+<text x="2121.0" y="2977.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết thúc – Chờ NCC</text><text x="2121.0" y="2990.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">giao bù lô mới</text>
+<rect x="1804.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="1899.0" y="2561.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N7: Xuất &amp; gửi hoá đơn</text><text x="1899.0" y="2574.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">cho Farmers Market</text>
+<rect x="2026.0" y="3238.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="2121.0" y="3281.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B24: Nhận &amp; ghi nhận</text><text x="2121.0" y="3294.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">hoá đơn của NCC</text>
+<path d="M 2036.0 3151.0 L 2190.0 3151.0 L 2206.0 3167.0 L 2206.0 3225.0 L 2036.0 3225.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
+<path d="M 2190.0 3151.0 L 2190.0 3167.0 L 2206.0 3167.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
+<text x="2121.0" y="3191.4" font-size="9.8" text-anchor="middle" fill="#444">Hoá đơn NCC</text>
+<path d="M 2258.0 3343.0 L 2412.0 3343.0 L 2428.0 3359.0 L 2428.0 3417.0 L 2258.0 3417.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
+<path d="M 2412.0 3343.0 L 2412.0 3359.0 L 2428.0 3359.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
+<text x="2343.0" y="3377.1" font-size="9.8" text-anchor="middle" fill="#444">Phiếu nhập kho &amp; tem</text><text x="2343.0" y="3389.7" font-size="9.8" text-anchor="middle" fill="#444">truy xuất (do QL2 lập)</text>
+<rect x="2248.0" y="3238.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="2343.0" y="3274.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B25: Đối chiếu 3 chiều: PO – Phiếu</text><text x="2343.0" y="3287.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">nhập</text><text x="2343.0" y="3301.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">kho (nhận từ QL2) – Hoá đơn</text>
+<polygon points="2540.0,3244.0 2580.0,3284.0 2540.0,3324.0 2500.0,3284.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
+<path d="M 2529.0 3273.0 L 2551.0 3295.0 M 2551.0 3273.0 L 2529.0 3295.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
+<text x="2540.0" y="3341.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Khớp</text><text x="2540.0" y="3354.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">3 chiều?</text>
+<rect x="2642.0" y="3343.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="2737.0" y="3379.4" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B26: Tạm giữ thanh toán, đối chiếu</text><text x="2737.0" y="3392.7" font-size="10.5" text-anchor="middle" fill="#1a1a1a">lại</text><text x="2737.0" y="3406.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">với QL2 / nhà cung cấp</text>
+<rect x="2642.0" y="3238.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="2737.0" y="3281.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B27: Lập đề nghị thanh toán,</text><text x="2737.0" y="3294.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">cấn trừ tiền đặt cọc (nếu có)</text>
+<path d="M 2652.0 3151.0 L 2806.0 3151.0 L 2822.0 3167.0 L 2822.0 3225.0 L 2652.0 3225.0 Z" fill="#f5f5f5" stroke="#9a9a9a" stroke-width="1.4"/>
+<path d="M 2806.0 3151.0 L 2806.0 3167.0 L 2822.0 3167.0" fill="none" stroke="#9a9a9a" stroke-width="1.4"/>
+<text x="2737.0" y="3191.4" font-size="9.8" text-anchor="middle" fill="#444">Đề nghị thanh toán</text>
+<polygon points="2934.0,3244.0 2974.0,3284.0 2934.0,3324.0 2894.0,3284.0" fill="#fff3d4" stroke="#c9a227" stroke-width="1.8"/>
+<path d="M 2923.0 3273.0 L 2945.0 3295.0 M 2945.0 3273.0 L 2923.0 3295.0" stroke="#8a6d1f" stroke-width="2.5" fill="none"/>
+<text x="2934.0" y="3334.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Vượt hạn mức</text><text x="2934.0" y="3347.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">duyệt chi của</text><text x="2934.0" y="3360.6" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kế toán trưởng?</text>
+<rect x="3036.0" y="3598.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="3131.0" y="3641.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B28: Ban Giám đốc</text><text x="3131.0" y="3654.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">duyệt chi</text>
+<rect x="3258.0" y="3238.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="3353.0" y="3281.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">B29: Thanh toán cho NCC</text><text x="3353.0" y="3294.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">theo kỳ hạn 15–30 ngày</text>
+<rect x="3480.0" y="2518.0" width="190.0" height="92.0" rx="9" fill="#e8f1fb" stroke="#2f6fb0" stroke-width="1.8"/>
+<text x="3575.0" y="2561.0" font-size="10.5" text-anchor="middle" fill="#1a1a1a">N8: Nhận thanh toán,</text><text x="3575.0" y="2574.3" font-size="10.5" text-anchor="middle" fill="#1a1a1a">xác nhận tất toán công nợ</text>
+<circle cx="3575.0" cy="3284.0" r="32" fill="#fdecea" stroke="#b3261e" stroke-width="4.2"/>
+<circle cx="3575.0" cy="3284.0" r="12" fill="#b3261e"/>
+<text x="3575.0" y="3331.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết thúc – Hoàn tất</text><text x="3575.0" y="3344.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">thanh toán &amp; đóng PO</text>
+<circle cx="3760.0" cy="2564.0" r="32" fill="#fdecea" stroke="#b3261e" stroke-width="4.2"/>
+<circle cx="3760.0" cy="2564.0" r="12" fill="#b3261e"/>
+<text x="3760.0" y="2611.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">Kết thúc – Đã nhận</text><text x="3760.0" y="2624.1" font-size="10.2" text-anchor="middle" fill="#2b2b2b" font-weight="bold">thanh toán</text>
 </svg>

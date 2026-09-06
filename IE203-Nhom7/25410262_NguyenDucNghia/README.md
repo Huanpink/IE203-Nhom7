@@ -19,11 +19,12 @@ Phần việc được phân công (theo `IE203-Nhom7/Phan cong.md`):
 | Tiêu chí rubric | QL1 – Chuỗi cung ứng & Thu mua | CL2 – Đơn hàng Online |
 |---|---|---|
 | Số pool | **2** (Farmers Market + Nhà cung cấp) | **2** (Khách hàng + Farmers Market) |
-| Số lane | **11** (2 băng) | **6** |
-| Cổng điều kiện (XOR) | **18** (ngưỡng quản lý: >7) | **13** (ngưỡng cốt lõi: >5) |
-| Split & Join (song song, AND) | **2 cặp** | **1 cặp** |
+| Số lane | **10** (2 băng) | **6** |
+| Cổng điều kiện (XOR) | **17** (ngưỡng quản lý: >7) | **13** (ngưỡng cốt lõi: >5) |
+| Split & Join (song song, AND) | **1 cặp** | **1 cặp** |
+| Call activity (bàn giao quy trình khác) | **1** → QL2 | **2** → CL4, HT1 |
 | Sự kiện bắt đầu / kết thúc | 5 / 8 | 2 / 7 |
-| Data object (biểu mẫu) | 11 | 6 |
+| Data object (biểu mẫu) | 10 | 6 |
 | Luồng thông điệp giữa 2 pool | 10 | 5 |
 | Cạnh đứt / node cô lập | Không (đã kiểm tra bằng script) | Không (đã kiểm tra bằng script) |
 
@@ -74,14 +75,33 @@ Kết quả định lượng chính:
 
 | | QL1 – Kịch bản A (phê duyệt NCC mới) | QL1 – Kịch bản B (đặt lại theo HĐ khung) | CL2 – Đơn hàng Online |
 |---|---|---|---|
-| Lead time luồng chuẩn | 23,6 ngày (mục tiêu < 15) | 7,7 ngày | 205 phút = 3,42 giờ |
-| Lead time kỳ vọng | 11,4 ngày | — | 218 phút = 3,64 giờ (cam kết 2–4h) |
-| Hiệu suất chu trình (PCE) | 12,2 % | 10,6 % | 88,3 % |
-| Chi phí nhân công / 1 giao dịch | ~3.690.909 đ | ~1.100.568 đ | ~115.625 đ / đơn |
-| Lãng phí / 1 giao dịch | — | ~130.000 đ (11,8 %) | ~22.495 đ (19,5 %) |
+| Lead time luồng chuẩn | 23,8 ngày (mục tiêu < 15) | 7,9 ngày | 204 phút = 3,40 giờ |
+| Lead time kỳ vọng | 11,7 ngày | — | 217 phút = 3,62 giờ (cam kết 2–4h) |
+| Hiệu suất chu trình (PCE) | 12,1 % | 10,3 % | 88,7 % |
+| Chi phí nhân công / 1 giao dịch | ~3.511.932 đ | ~921.591 đ | ~114.663 đ / đơn |
+| Lãng phí / 1 giao dịch | — | ~119.773 đ (13,0 %) | ~22.495 đ (19,6 %) |
 
 Quy mô giả định: QL1 250 đơn hàng + 8 chu trình phê duyệt NCC mới mỗi tháng →
-lãng phí ~32,5 triệu đ/tháng. CL2 420 đơn online/ngày → lãng phí ~9,4 triệu đ/ngày.
+lãng phí ~29,9 triệu đ/tháng (~359 triệu đ/năm). CL2 420 đơn online/ngày →
+lãng phí ~9,4 triệu đ/ngày.
+
+## Ranh giới phạm vi với quy trình của thành viên khác
+
+Hai sơ đồ **không vẽ chi tiết** phần việc thuộc quy trình do bạn khác phân tích,
+mà dùng **call activity** (ô viền đậm, có dấu cộng trong khung) để bàn giao:
+
+| Khâu | Thuộc quy trình | Người phân tích | Thể hiện trong sơ đồ của tôi |
+|---|---|---|---|
+| Kiểm đếm, kiểm hồ sơ lô, kiểm chất lượng, nhập kho | QL2 – QA/QC & ATTP | Tổng Thị Mỹ Hương | 1 call activity trong QL1 + cổng "Kết quả QL2: lô hàng đạt?" |
+| Đối soát COD, ví điện tử, hạch toán, khoá sổ | HT1 – Kế toán & Đối soát | Nguyễn Hữu Huy | 1 call activity trong CL2 |
+| Xử lý khiếu nại, đổi trả, hoàn tiền | CL4 – CSKH & Đổi trả | Lê Ngọc Khánh | 1 call activity trong CL2 |
+| Dự báo ngành hàng theo mùa vụ | QL3 – Hoạch định kinh doanh | Lê Ngọc Khánh | Chỉ là dữ liệu đầu vào của bước B2 |
+| Số liệu hao hụt kỳ trước | CL3 – Kiểm kê & Hao hụt | Tổng Thị Mỹ Hương | Chỉ là dữ liệu đầu vào của bước B2 |
+
+Trong QL1, Phòng QA/QC vẫn xuất hiện nhưng **chỉ ở khâu thẩm định hồ sơ, chứng nhận
+và kiểm nghiệm mẫu khi phê duyệt nhà cung cấp mới** — đây là nội dung "Phê duyệt NCC"
+được giao cho QL1 theo `Phan cong.md`, không trùng với việc kiểm từng lô hàng nhập
+của QL2.
 
 ## Việc còn lại
 
