@@ -18,14 +18,14 @@ Phần việc được phân công (theo `IE203-Nhom7/Phan cong.md`):
 
 | Tiêu chí rubric | QL1 – Chuỗi cung ứng & Thu mua | CL2 – Đơn hàng Online |
 |---|---|---|
-| Số pool | **2** (Farmers Market + Nhà cung cấp) | 1 |
-| Số lane | **11** (2 băng) | 6 |
-| Cổng điều kiện (XOR) | **18** (ngưỡng quản lý: >7) | **8** (ngưỡng cốt lõi: >5) |
-| Split & Join (song song, AND) | **2 cặp** | 1 cặp |
-| Sự kiện bắt đầu / kết thúc | 5 / 8 | 1 / 3 |
-| Data object (biểu mẫu) | 11 | 4 |
-| Luồng thông điệp giữa 2 pool | 10 | — |
-| Cạnh đứt / node cô lập | Không (đã kiểm tra bằng script) | Không |
+| Số pool | **2** (Farmers Market + Nhà cung cấp) | **2** (Khách hàng + Farmers Market) |
+| Số lane | **11** (2 băng) | **6** |
+| Cổng điều kiện (XOR) | **18** (ngưỡng quản lý: >7) | **13** (ngưỡng cốt lõi: >5) |
+| Split & Join (song song, AND) | **2 cặp** | **1 cặp** |
+| Sự kiện bắt đầu / kết thúc | 5 / 8 | 2 / 7 |
+| Data object (biểu mẫu) | 11 | 6 |
+| Luồng thông điệp giữa 2 pool | 10 | 5 |
+| Cạnh đứt / node cô lập | Không (đã kiểm tra bằng script) | Không (đã kiểm tra bằng script) |
 
 ## QL1 – Quản lý chuỗi cung ứng & Thu mua nông sản – ghi chú
 
@@ -43,10 +43,10 @@ Bốn nguồn phát sinh nhu cầu được mô tả riêng ở mục A.4.1: đ�
 cửa hàng (theo tồn min–max và sức bán), dự báo ngành hàng theo mùa vụ từ QL3,
 số liệu bù hụt từ CL3, và nhu cầu hàng mới / thay thế nguồn.
 
-## Cấu trúc file phân tích QL1
+## Cấu trúc 2 file phân tích
 
-Bám theo cách trình bày thống nhất trong nhóm (tham khảo bố cục file của Hữu Huy),
-file Word gồm 3 phần:
+Hai file Word (QL1 và CL2) dùng chung một bố cục, bám theo cách trình bày thống
+nhất trong nhóm (tham khảo bố cục file của Hữu Huy), gồm 3 phần:
 
 **1. Quy trình QL1** — sơ đồ tổng quan 12 bước + mô tả từng bước.
 
@@ -58,28 +58,32 @@ file Word gồm 3 phần:
 - 2.2 Bộ 6 mục: Mục tiêu & Phạm vi · RACI · SIPOC · Bảng bước AS-IS · Sơ đồ BPMN ·
   KPI và điểm nghẽn/rủi ro
 
+Mọi bảng đều có tiêu đề đánh số đặt **trên** bảng, mọi hình có nhãn đặt **dưới**
+hình (theo yêu cầu mục 5 của rubric). QL1: 28 bảng + 3 hình. CL2: 27 bảng + 3 hình.
+
 **3. Phân tích quy trình**
 - 3.1 Định tính: VA/VBA/NVA · Lãng phí (Move–Hold–Overdo) · Các bên liên quan +
   Xương cá (Fishbone)
 - 3.2 Định lượng: Xác suất rẽ nhánh 18 cổng điều kiện · Thời gian · Chất lượng ·
   Chi phí
 
-Kết quả định lượng chính (QL1 tính theo 2 kịch bản):
+Kết quả định lượng chính:
 
 | | QL1 – Kịch bản A (phê duyệt NCC mới) | QL1 – Kịch bản B (đặt lại theo HĐ khung) | CL2 – Đơn hàng Online |
 |---|---|---|---|
-| Lead time | 23,6 ngày (mục tiêu < 15) | 7,7 ngày | 3,6 giờ (cam kết 2–4h) |
-| Hiệu suất chu trình (PCE) | 12,2 % | 10,6 % | 83,2 % |
-| Chi phí nhân công / 1 giao dịch | ~3.690.909 đ | ~1.100.568 đ | ~115.600 đ / đơn |
-| Lãng phí / 1 đơn hàng | — | ~130.000 đ (11,8 %) | ~20.900 đ (18,1 %) |
+| Lead time luồng chuẩn | 23,6 ngày (mục tiêu < 15) | 7,7 ngày | 205 phút = 3,42 giờ |
+| Lead time kỳ vọng | 11,4 ngày | — | 218 phút = 3,64 giờ (cam kết 2–4h) |
+| Hiệu suất chu trình (PCE) | 12,2 % | 10,6 % | 88,3 % |
+| Chi phí nhân công / 1 giao dịch | ~3.690.909 đ | ~1.100.568 đ | ~115.625 đ / đơn |
+| Lãng phí / 1 giao dịch | — | ~130.000 đ (11,8 %) | ~22.495 đ (19,5 %) |
 
-Tính theo xác suất rẽ nhánh (80% đơn đi kịch bản B, 20% đi kịch bản A) và cộng
-thời gian làm lại kỳ vọng: **lead time kỳ vọng 11,4 ngày · chi phí nhân công kỳ
-vọng 1.618.636 đ/đơn**. Quy mô giả định 250 đơn hàng + 8 chu trình phê duyệt NCC
-mới mỗi tháng → lãng phí ~32,5 triệu đ/tháng (~390 triệu đ/năm).
+Quy mô giả định: QL1 250 đơn hàng + 8 chu trình phê duyệt NCC mới mỗi tháng →
+lãng phí ~32,5 triệu đ/tháng. CL2 420 đơn online/ngày → lãng phí ~9,4 triệu đ/ngày.
 
 ## Việc còn lại
 
-- [ ] Đối chiếu lần cuối với rubric trước khi nộp.
-- [ ] Huân import lại phần QL1 mới vào file tổng hợp trong `00_TONG_HOP/`
-      (bản `Farmers_Market_Bao_cao_Tong_hop_V1.docx` vẫn còn nội dung cũ).
+- [ ] Bổ sung mục **Thuật ngữ & sổ tay** và **biên bản họp / kịch bản workshop**
+      (rubric mục 3 có liệt kê, hiện cả nhóm chưa ai làm ở file cá nhân).
+- [ ] Mục lục, mục lục hình ảnh, mục lục bảng biểu, bảng viết tắt — theo mẫu báo cáo
+      khoá luận của trường (rubric mục 5). Thường làm ở file tổng hợp.
+- [ ] Huân import lại phần QL1 và CL2 mới vào file tổng hợp trong `00_TONG_HOP/`.
