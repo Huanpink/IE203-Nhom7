@@ -48,18 +48,21 @@ số liệu bù hụt từ CL3, và nhu cầu hàng mới / thay thế nguồn.
 Hai file Word (QL1 và CL2) dùng chung một bố cục, bám theo cách trình bày thống
 nhất trong nhóm (tham khảo bố cục file của Hữu Huy), gồm 3 phần:
 
-**1. Quy trình QL1** — sơ đồ tổng quan 12 bước + mô tả từng bước.
+**1. Quy trình** — sơ đồ tổng quan + mô tả từng bước; mục 1.2 nêu tác nhân,
+khách hàng của quy trình và bảng các khả năng kết quả (theo rubric mục 1).
 
 **2. Mô hình hoá quy trình**
-- 2.1 Phương pháp thực hiện: Dựa trên bằng chứng · Mô tả quy trình theo từng
-  nhánh · Sơ đồ tổ chức · Kế hoạch làm việc (ngày / tuần–tháng–quý) ·
-  Công nghệ hỗ trợ · Biểu mẫu & chứng từ (5 biểu mẫu) · Phỏng vấn (10 câu định
-  tính + 10 câu định lượng)
+- 2.1 Phương pháp thực hiện — đủ 7 mục rubric liệt kê: a) Dựa trên bằng chứng ·
+  b) Mô tả quy trình theo từng nhánh · c) Sơ đồ tổ chức · d) Kế hoạch làm việc
+  (ngày / tuần–tháng–quý) · e) Thuật ngữ và sổ tay · f) Công nghệ hỗ trợ ·
+  g) Biểu mẫu & chứng từ (5 biểu mẫu + biên bản họp + kịch bản workshop) ·
+  h) Phỏng vấn (10 câu định tính + 10 câu định lượng, có phân loại có cấu trúc /
+  không cấu trúc)
 - 2.2 Bộ 6 mục: Mục tiêu & Phạm vi · RACI · SIPOC · Bảng bước AS-IS · Sơ đồ BPMN ·
   KPI và điểm nghẽn/rủi ro
 
 Mọi bảng đều có tiêu đề đánh số đặt **trên** bảng, mọi hình có nhãn đặt **dưới**
-hình (theo yêu cầu mục 5 của rubric). QL1: 28 bảng + 3 hình. CL2: 27 bảng + 3 hình.
+hình (theo yêu cầu mục 5 của rubric). QL1: 32 bảng + 3 hình. CL2: 31 bảng + 3 hình.
 
 **3. Phân tích quy trình**
 - 3.1 Định tính: VA/VBA/NVA · Lãng phí (Move–Hold–Overdo) · Các bên liên quan +
@@ -82,8 +85,18 @@ lãng phí ~32,5 triệu đ/tháng. CL2 420 đơn online/ngày → lãng phí ~9
 
 ## Việc còn lại
 
-- [ ] Bổ sung mục **Thuật ngữ & sổ tay** và **biên bản họp / kịch bản workshop**
-      (rubric mục 3 có liệt kê, hiện cả nhóm chưa ai làm ở file cá nhân).
 - [ ] Mục lục, mục lục hình ảnh, mục lục bảng biểu, bảng viết tắt — theo mẫu báo cáo
       khoá luận của trường (rubric mục 5). Thường làm ở file tổng hợp.
 - [ ] Huân import lại phần QL1 và CL2 mới vào file tổng hợp trong `00_TONG_HOP/`.
+
+## Đối chiếu rubric (mục 3 – Phương pháp thực hiện)
+
+| Mục rubric yêu cầu | QL1 | CL2 |
+|---|---|---|
+| Dựa trên bằng chứng | ✔ | ✔ |
+| Mô tả quy trình hiện có | ✔ | ✔ |
+| Sơ đồ tổ chức | ✔ | ✔ |
+| Kế hoạch làm việc | ✔ | ✔ |
+| Thuật ngữ và sổ tay | ✔ | ✔ |
+| Biểu mẫu (kèm biên bản họp, kịch bản) | ✔ | ✔ |
+| Phỏng vấn 10 định tính + 10 định lượng | ✔ | ✔ |
